@@ -10,3 +10,18 @@ The file monthly_in_situ_co2_mlo.xls contains monthly carbon dioxide concentrati
 2. Remove the “noise” in the data associated with the long term rise in CO2 concentration. You can do this by fitting a polynomial to the data. Try a first order (linear), second order (quadratic) and higher order fits (maybe to 5th order) and describe how this changes your results.
 
 Solution - https://github.com/Sumanshekhar17/Geophysical-Data-Analysis/blob/main/Keeling%20Curve%20Data%20-%20Statistical%20Analysis.ipynb
+
+
+**Assaignment 2**-
+
+1) If you had 1 million random time series—how many would be significantly correlated at the 95 percent confidence limit? How would you test this?
+
+2) The MAT file KVK.mat. Download KVK.mat.contains hourly data of along channel flow (UA), winds (WE,WN), river discharge from the Passaic and Hudson (QP, QH) and tidal amplitude (AMP)
+
+   a) How many data points are there? Using a lagged autocorrelation find out how many degrees of freedom there are.
+
+   b)  Express the wind data as a complex number and find what wind angle has the largest response to sea level (HLOW) and the currents (UA).
+
+   c) Calculate the zero-lag correlation matrix for this data set.
+
+   d) Develop a multiple regression for the UA as a function of HLOW, QP, QH, WN,WE, AMP
