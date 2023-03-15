@@ -90,7 +90,6 @@ Make some interpretation of the dynamics you observe in terms of El Nino, the se
 
 Even more extra credit: Test the significance of your modes.
 
-[View My Notebook on Nbviewer](https://nbviewer.jupyter.org/github/Sumanshekhar17/Geophysical-Data-Analysis/blob/main/Assaignment-3.ipynb)
-
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg) (View my Notebook Here)](https://nbviewer.jupyter.org/github/Sumanshekhar17/Geophysical-Data-Analysis/blob/main/Assaignment-3.ipynb)
 
 
