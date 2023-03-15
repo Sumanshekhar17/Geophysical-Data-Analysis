@@ -89,3 +89,8 @@ Note and/or plot how much of the data variance is explained by each mode.
 Make some interpretation of the dynamics you observe in terms of El Nino, the seasonal cycle, or other climate variability processes.
 
 Even more extra credit: Test the significance of your modes.
+
+[View My Notebook on Nbviewer](https://nbviewer.jupyter.org/github/Sumanshekhar17/Geophysical-Data-Analysis/blob/main/Assaignment-3.ipynb)
+
+
+
