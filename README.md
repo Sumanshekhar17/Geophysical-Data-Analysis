@@ -9,7 +9,8 @@ The file monthly_in_situ_co2_mlo.xls contains monthly carbon dioxide concentrati
 1. Define the annual variation as the maximum annual value minus the minimum annual value from the raw data and calculate the mean annual variability during the first half of the record and compare that to the value from the second half of the record. Is the difference significant at the 95% confidence limits?
 2. Remove the “noise” in the data associated with the long term rise in CO2 concentration. You can do this by fitting a polynomial to the data. Try a first order (linear), second order (quadratic) and higher order fits (maybe to 5th order) and describe how this changes your results.
 
-Solution - https://github.com/Sumanshekhar17/Geophysical-Data-Analysis/blob/main/Keeling%20Curve%20Data%20-%20Statistical%20Analysis.ipynb
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg) (View my Notebook Here)](https://github.com/Sumanshekhar17/Geophysical-Data-Analysis/blob/main/Keeling%20Curve%20Data%20-%20Statistical%20Analysis.ipynb)
+
 
 
 **Assaignment 2**-
